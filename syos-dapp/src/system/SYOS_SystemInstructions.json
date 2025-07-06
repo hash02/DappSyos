@@ -1,0 +1,10 @@
+{
+  "description": "System instructions for SYOS agents.",
+  "agents": [
+    {
+      "id": "mirror-drift",
+      "goal": "Predict market drift using symbolic reasoning.",
+      "todo": ["pull price data", "analyze with MirrorDriftEngine", "update charts"]
+    }
+  ]
+}
